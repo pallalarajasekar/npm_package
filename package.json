@@ -1,6 +1,6 @@
 {
   "name": "npm_package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "say hello to npm",
   "main": "index.js",
   "scripts": {
