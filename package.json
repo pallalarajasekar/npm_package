@@ -1,0 +1,22 @@
+{
+  "name": "npm_package",
+  "version": "1.0.0",
+  "description": "say hello to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallalarajasekar/npm_package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "pallala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallalarajasekar/npm_package/issues"
+  },
+  "homepage": "https://github.com/pallalarajasekar/npm_package#readme"
+}
